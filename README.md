@@ -6,7 +6,7 @@ Your task is to find the the only word that has 'c' as its first letter and 's' 
 Here's how the challenge works:
 
 Input:
-You are given a .txt file full of random words, and oionly one of them is a word that starts with 'c' and ends with 's'
+You are given a .txt file full of random words, and only one of them is a word that starts with 'c' and ends with 's'
 
 Output:
 Your program should output the encoded word of the words you found.
